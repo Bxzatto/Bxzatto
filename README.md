@@ -1,4 +1,5 @@
 # ✨ Hi, I'm Bea! ✨
+Meus Novos repositórios estão em minha organização! Veja aqui -> https://github.com/Athena-Softwares
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bxzatto&show_icons=true&theme=nightowl"/>
