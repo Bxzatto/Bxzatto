@@ -2,7 +2,7 @@
 Meus Novos repositórios estão em minha organização! Veja aqui -> https://github.com/Athena-Softwares
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Bxzatto&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Bxzatto&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bxzatto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Bxzatto/Bxzatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
